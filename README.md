@@ -1,5 +1,5 @@
 # TensorFlow
-This repository contains the concepts of TensorFlow  by implementing it on various datasets.
+This repository contains the concepts of Neural Network and Convolution Neural Network using different models on various datasets.
 
 Datasets
 * MNIST
